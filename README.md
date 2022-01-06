@@ -9,6 +9,7 @@ O app foi desenvolvido em flutter com requisição na api buscando pokemons e as
 <!-- HTML CODE-->
 <div>
     <img src="https://github.com/victorlui/Pokedex_Flutter/blob/master/imgs/1.jpg" width="350" />
+    <img src="https://github.com/victorlui/Pokedex_Flutter/blob/master/imgs/2.jpg" width="350" />
 </div>
 
 
