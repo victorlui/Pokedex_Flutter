@@ -6,6 +6,8 @@ Um Projeto em Flutter
 
 O app foi desenvolvido em flutter com requisição na api buscando pokemons e as imagens.
 
+![alt text](https://github.com/victorlui/Pokedex_Flutter/blob/master/imgs/1.jpg?raw=true)
+
 ## Como executar 
 
 **Passo 1:**
@@ -13,7 +15,7 @@ O app foi desenvolvido em flutter com requisição na api buscando pokemons e as
 Faça o download ou clona o repositório usando o link abaixo:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/victorlui/Pokedex_Flutter.git
 ```
 
 **Step 2:**
