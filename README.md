@@ -1,16 +1,29 @@
-# pokedex
+# Projeto Pokedex
 
-A new Flutter project.
+Um Projeto em Flutter
 
-## Getting Started
+## O projeto
 
-This project is a starting point for a Flutter application.
+O app foi desenvolvido em flutter com requisição na api buscando pokemons e as imagens.
 
-A few resources to get you started if this is your first Flutter project:
+## Como executar 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Passo 1:**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Faça o download ou clona o repositório usando o link abaixo:
+
+```
+https://github.com/zubairehman/flutter-boilerplate-project.git
+```
+
+**Step 2:**
+
+Vá para a raiz do projeto e execute o seguinte comando no console para obter as dependências necessárias: 
+
+```
+flutter pub get 
+```
+
+**Step 3:**
+
+Em seguida execute o projeto.
