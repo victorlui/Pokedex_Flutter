@@ -6,9 +6,16 @@ Um Projeto em Flutter
 
 O app foi desenvolvido em flutter com requisição na api buscando pokemons e as imagens.
 
-![alt text](https://github.com/victorlui/Pokedex_Flutter/blob/master/imgs/1.jpg?raw=true  | width=100)
+{::nomarkdown}
 
-## Como executar 
+<!-- HTML CODE-->
+<div>
+    <img src="https://github.com/victorlui/Pokedex_Flutter/blob/master/imgs/1.jpg" width="100" />
+</div>
+
+{:/}
+
+## Como executar
 
 **Passo 1:**
 
@@ -20,10 +27,10 @@ https://github.com/victorlui/Pokedex_Flutter.git
 
 **Step 2:**
 
-Vá para a raiz do projeto e execute o seguinte comando no console para obter as dependências necessárias: 
+Vá para a raiz do projeto e execute o seguinte comando no console para obter as dependências necessárias:
 
 ```
-flutter pub get 
+flutter pub get
 ```
 
 **Step 3:**
