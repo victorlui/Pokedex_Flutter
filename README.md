@@ -6,14 +6,12 @@ Um Projeto em Flutter
 
 O app foi desenvolvido em flutter com requisição na api buscando pokemons e as imagens.
 
-{::nomarkdown}
-
 <!-- HTML CODE-->
 <div>
-    <img src="https://github.com/victorlui/Pokedex_Flutter/blob/master/imgs/1.jpg" width="100" />
+    <img src="https://github.com/victorlui/Pokedex_Flutter/blob/master/imgs/1.jpg" width="350" />
 </div>
 
-{:/}
+
 
 ## Como executar
 
